@@ -22,12 +22,10 @@ Required libraries:
 
 bash
 pip install nltk scikit-learn
-Installation
-Clone the repository:
 
-bash
-git clone https://github.com/yourusername/nlp-chatbot.git
-cd nlp-chatbot
+
+
+
 Install dependencies:
 
 bash
